@@ -1,3 +1,4 @@
+Cognome: MARINO DE LUCA   Nome: RICCARDO TIZIANO   Classe: Progettazione navale    Strumento scelto: Copilot
 # RELAZIONE
 
 Agente utilizzato: Copilot
